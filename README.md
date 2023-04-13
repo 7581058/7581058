@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
 
 
