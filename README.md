@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&&color=57bcda&text=Thanks%20for%20visiting!&height=80&animation=twinkling&fontColor=20232a&fontSize=20&stroke=ffffff&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=rect&&color=57bcda&text=Thanks%20for%20visiting!&height=80&animation=twinkling&fontColor=20232a&fontSize=40&stroke=ffffff&strokeWidth=0)
 
 <br><br>
 
