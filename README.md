@@ -12,9 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)  
+  
+</div>
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&&color=57bcda&text=Thanks%20for%20visiting!&height=80&animation=twinkling&fontColor=20232a&fontSize=40&stroke=ffffff&strokeWidth=0)
+ 
 
 <br><br>
 
@@ -43,7 +50,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
+   -->
 </div>
