@@ -46,11 +46,20 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<a>
+  <img src ="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&theme=react" height="170px"/>
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
+<a>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact&theme=react" height="170px"/>
+  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+</a>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
    -->
