@@ -18,16 +18,12 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rect&&color=57bcda&text=Thanks%20for%20visiting!&height=80&animation=twinkling&fontColor=20232a&fontSize=40&stroke=ffffff&strokeWidth=0)
- 
+<div align="center"> 
 
 <br><br>
 
 ### :baby_chick: ME 
 <img src="https://img.shields.io/badge/Tstory-000000?style=flat&logo=tistory&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 <br>
