@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 </div>  
 
 ## 👋 Hi there!   
- I'm DaSeul, a frontend developer passionate about crafting delightful user experiences through clean and efficient code. 
 
+<div align="center"> 
+ I'm DaSeul, a frontend developer passionate about crafting delightful user experiences through clean and efficient code. 
 <br>
   
-### :computer: Studying
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ### :computer: Studying
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -37,19 +38,18 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-
 <br>
+
   <img src ="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&theme=react" height="170px"/>
+<br><br>
 
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=03251116)](https://solved.ac/03251116)
 
-<div align="center"> 
-
-
-
-
-<br><br><br>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
-   -->
-   
 </div>
+
+
+
+
+
+
