@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7581058%2Fhit-counter&count_bg=%2357BCDA&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7581058%2Fhit-counter&count_bg=%2357BCDA&title_bg=%2357BCDA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
   <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=03251116)](https://solved.ac/03251116) -->
