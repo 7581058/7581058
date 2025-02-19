@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
       &nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
+&nbsp;
              <h3 align="left">Personal Projects</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
       &nbsp;
