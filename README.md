@@ -24,31 +24,31 @@ Here are some ideas to get you started:
     <td align="left">
       
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Introduction</h3>
-     &nbsp;&nbsp;&nbsp;&nbsp;I'm Daseul, </br> 
-     &nbsp;&nbsp;&nbsp;&nbsp;a frontend developer who enjoys learning new technologies and</br> 
-     &nbsp;&nbsp;&nbsp;&nbsp;taking on new challenges. I'm always looking for ways to grow</br>
-     &nbsp;&nbsp;&nbsp;&nbsp;and create better user experiences😊     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Daseul, </br> 
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a frontend developer who enjoys learning new technologies and</br> 
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taking on new challenges. I'm always looking for ways to grow</br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and create better user experiences😊     
 
 </br>
 
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Studying</h3>
   <div>
-   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-%23A9BACC.svg?style=for-the-badge&logo=javascript&logoColor=%230d1117" height="20">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-%23A9BACC.svg?style=for-the-badge&logo=javascript&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/typescript-%23A9BACC.svg?style=for-the-badge&logo=typescript&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/react-%23A9BACC.svg?style=for-the-badge&logo=react&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/React%20Native-%23A9BACC?style=for-the-badge&logo=react&logoColor=%230d1117" height="20"></br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next-%23A9BACC.svg?style=for-the-badge&logo=next.js&logoColor=%230d1117" height="20">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next-%23A9BACC.svg?style=for-the-badge&logo=next.js&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/node.js-%23A9BACC.svg?style=for-the-badge&logo=node.js&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/threejs-%23A9BACC.svg?style=for-the-badge&logo=three.js&logoColor=%230d1117" height="20"></br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Recoil-%23A9BACC.svg?style=for-the-badge&logo=recoil&logoColor=%230d1117" height="20">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Recoil-%23A9BACC.svg?style=for-the-badge&logo=recoil&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/Zustand-%23A9BACC.svg?style=for-the-badge&logo=zustand&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/Jotai-%23A9BACC.svg?style=for-the-badge&logo=jotai&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/TanStack%20Query-%23A9BACC.svg?style=for-the-badge&logo=react-query&logoColor=%230d1117" height="20"></br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Emotion-%23A9BACC.svg?style=for-the-badge&logo=emotion&logoColor=%230d1117" height="20">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Emotion-%23A9BACC.svg?style=for-the-badge&logo=emotion&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/styled--components-%23A9BACC.svg?style=for-the-badge&logo=styled-components&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/tailwindcss-%23A9BACC.svg?style=for-the-badge&logo=tailwind-css&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/shadcn/ui-%23A9BACC.svg?style=for-the-badge&logo=shadcn&logoColor=%230d1117" height="20"></br>
-       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vite-%23A9BACC.svg?style=for-the-badge&logo=vite&logoColor=%230d1117" height="20">
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vite-%23A9BACC.svg?style=for-the-badge&logo=vite&logoColor=%230d1117" height="20">
       <img src="https://img.shields.io/badge/Vitest-%23A9BACC.svg?style=for-the-badge&logo=vitest&logoColor=%230d1117" height="20">
 </div>
 
