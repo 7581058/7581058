@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>
+    <td align="left">
       
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Introduction</h3>
      &nbsp;&nbsp;&nbsp;&nbsp;I'm Daseul, </br> 
@@ -54,9 +54,10 @@ Here are some ideas to get you started:
 
 </br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"/>
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true" />
+
  
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
     <img
