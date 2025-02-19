@@ -63,6 +63,7 @@ Here are some ideas to get you started:
     <img
       src="https://render.gitanimals.org/lines/7581058?pet-id=658415771568423051"
       width="1000"
+      height="200"
     />
   </a>
     </td>
@@ -81,6 +82,7 @@ Here are some ideas to get you started:
   <h3 align="left">Personal Projects</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
       &nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
 
 
   </td>
