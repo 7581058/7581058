@@ -63,16 +63,11 @@ I'm always looking for ways to grow and create better user experiences 😊
     />
   </a>
 </div>
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&&layout=compact&border_color=A9BACC&title_color=A9BACC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF" height="170px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=A9BACC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide=stars,contribs&show=prs_merged,prs_merged_percentage" height="170px"/>
-</a>  
-</div>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=A9BACC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide=stars,contribs&show=prs_merged,prs_merged_percentage" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7581058&&layout=compact&border_color=A9BACC&title_color=A9BACC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF" height="170px"/>
+ 
+ 
 </br>
 </br>
 
