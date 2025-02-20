@@ -71,10 +71,10 @@ Here are some ideas to get you started:
        <h3 align="left">Team Projects</h3>
       
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/SaveWallet-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/BeautyInside-Client)
 
 <!--
 &nbsp;
@@ -88,8 +88,8 @@ Here are some ideas to get you started:
           -->   
   <h3 align="left">Personal Projects</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/7581058)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/7581058)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
