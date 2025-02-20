@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
 
 <!--
 &nbsp;
