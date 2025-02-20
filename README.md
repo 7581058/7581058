@@ -62,7 +62,7 @@ Here are some ideas to get you started:
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/7581058?pet-id=658415771568423051"
-      width="1800"
+      width="2000"
       height="200"
     />
   </a>
