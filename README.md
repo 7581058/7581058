@@ -1,22 +1,3 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-   <source
-    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-
-<div align="right">
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7581058%2Fhit-counter&count_bg=%23A9BACC&title_bg=%23A9BACC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
--->
-
-</div> 
-
 <table>
   <tr>
     <td align="left">
@@ -52,22 +33,35 @@
 
 </br>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-   <source
-    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
+다크1 
+[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+다크2
+[![GitHub stats-Light](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+라이트1
+[![GitHub stats-Light](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+라이트2 
+[![GitHub stats-Light](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+다크1
+[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+다크2
+[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+라이트1
+[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+라이트2
+[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
-  <img src="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"/>
+  <img src="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=00000000&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"/>
   
  <img src="https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true" />
 -->
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
