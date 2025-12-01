@@ -3,12 +3,15 @@
     <td align="left">
       
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Introduction</h3>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Daseul, </br> 
+  
+<p>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm <span>$\text{Daseul}$</span>, </br> 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a frontend developer who enjoys learning new technologies and</br> 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taking on new challenges. I'm always looking for ways to grow</br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and create better user experiences😊     
+</p>
 
-</br>
+<br>
 
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Studying</h3>
   <div>
@@ -31,22 +34,22 @@
       <img src="https://img.shields.io/badge/Vitest-%23A9BACC.svg?style=for-the-badge&logo=vitest&logoColor=%230d1117" height="20">
 </div>
 
-</br>
+<br>
 
 
-[![GitHub stats-Light](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&count_private=true&show_icons=true&rank_icon=github&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
 
-[![GitHub stats-Light](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=1f2328&bg_color=00000000&icon_color=1f2328&border_radius=0&text_color=1f2328&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Top Langs](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=A9BACC&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=A9BACC&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Top Langs](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&card_width=600&title_color=1f2328&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
-    width="1900"
+    width="2000"
     height="600"
   />
 </a>
@@ -80,8 +83,3 @@
   </td>
   </tr>
 </table>
-
-
-
-
-
