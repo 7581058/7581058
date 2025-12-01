@@ -39,7 +39,7 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 
   <h3 align="left">GitHub Stats</h3>
   
-[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&count_private=true&show_icons=true&rank_icon=github&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
 
 [![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=1f2328&bg_color=00000000&icon_color=1f2328&border_radius=0&text_color=1f2328&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
 
