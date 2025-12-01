@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <img
     src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
     width="1900"
-    height="400"
+    height="600"
   />
 </a>
   
