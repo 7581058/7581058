@@ -1,17 +1,13 @@
-<!--
-**7581058/7581058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+   <source
+    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
 
 <div align="right">
 
@@ -56,10 +52,22 @@ Here are some ideas to get you started:
 
 </br>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+   <source
+    srcset="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+
+<!--
   <img src="https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&count_private=true&show_icons=true&rank_icon=github&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_border=true"/>
   
  <img src="https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true" />
-
+-->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
@@ -73,32 +81,16 @@ Here are some ideas to get you started:
     <td align="center">
        <h3 align="left">Team Projects</h3>
       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Admin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/SaveWallet-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/BeautyInside-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/BeautyInside-Admin)
+  [![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/Jober-Renewal-Client)
+[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Client)
+[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/DoctorCal-Admin)
+[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/SaveWallet-Client)
+[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/BeautyInside-Client)
+[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/BeautyInside-Admin)
 
-<!--
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
-      &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
-
-  &nbsp;
-          -->   
   <h3 align="left">Personal Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true)](https://github.com/7581058/7581058)
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
-      &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true" />
--->
 
   </td>
   </tr>
