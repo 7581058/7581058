@@ -41,6 +41,8 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 
 [![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=1f2328&bg_color=00000000&icon_color=1f2328&border_radius=0&text_color=1f2328&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
 
+<br>
+
   <h3 align="left">Most Used Languages</h3>
 
 
@@ -48,6 +50,8 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 
 [![GitHub stats-Top Langs](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&hide_title=true&layout=compact&title_color=1f2328&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
 
+
+<br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
   <img
