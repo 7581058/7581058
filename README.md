@@ -60,15 +60,16 @@ Here are some ideas to get you started:
   
  <img src="https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&layout=compact&border_color=A9BACC&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true" />
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
+    width="600"
+    height="400"
+  />
+</a>
+  
  
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/7581058?pet-id=658415771568423051"
-      width="1900"
-      height="200"
-    />
-  </a>
-    </td>
+</td>
     <td align="center">
        <h3 align="left">Team Projects</h3>
       
