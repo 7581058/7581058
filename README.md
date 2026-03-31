@@ -21,7 +21,6 @@ I value clean architecture, practical solutions, and continuous learning. :four_
   <img src="https://img.shields.io/badge/Next-%23A9BACC.svg?style=for-the-badge&logo=next.js&logoColor=%230d1117" height="20">
   <img src="https://img.shields.io/badge/node.js-%23A9BACC.svg?style=for-the-badge&logo=node.js&logoColor=%230d1117" height="20">
   <img src="https://img.shields.io/badge/threejs-%23A9BACC.svg?style=for-the-badge&logo=three.js&logoColor=%230d1117" height="20">
-  <img src="https://img.shields.io/badge/Recoil-%23A9BACC.svg?style=for-the-badge&logo=recoil&logoColor=%230d1117" height="20">
   <img src="https://img.shields.io/badge/Zustand-%23A9BACC.svg?style=for-the-badge&logo=zustand&logoColor=%230d1117" height="20">
   <img src="https://img.shields.io/badge/Jotai-%23A9BACC.svg?style=for-the-badge&logo=jotai&logoColor=%230d1117" height="20">
   <img src="https://img.shields.io/badge/TanStack%20Query-%23A9BACC.svg?style=for-the-badge&logo=react-query&logoColor=%230d1117" height="20">
@@ -35,24 +34,29 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 
 <br>
 <br>
-<br>
 
   <h3 align="left">GitHub Stats</h3>
-  
-[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
 
-[![GitHub stats](https://github-readme-stats-nine-lime-48.vercel.app/api?username=7581058&include_all_commits=true&custom_title=GitHubStats&hide_title=true&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=1f2328&bg_color=00000000&icon_color=1f2328&border_radius=0&text_color=1f2328&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+  <img src="./profile/stats-dark.svg">
+</picture>
 
 <br>
+<br>
+
 
   <h3 align="left">Most Used Languages</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+  <img src="./profile/top-langs-dark.svg">
+</picture>
 
-[![GitHub stats-Top Langs](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&hide_title=true&layout=compact&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&border_radius=0&text_color=F0F6FC&hide_border=true#gh-dark-mode-only)](https://github.com/7581058#gh-dark-mode-only)
 
-[![GitHub stats-Top Langs](https://github-readme-stats-nine-lime-48.vercel.app/api/top-langs/?username=7581058&hide_title=true&layout=compact&title_color=1f2328&bg_color=00000000&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058#gh-light-mode-only)
-
-
+<br>
 <br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=7581058&utm_content=line">
@@ -67,14 +71,42 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 </td>
     <td align="center">
        <h3 align="left">Team Projects</h3>
-      
-  [![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/Jober-Renewal-Client#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/DoctorCal-Client#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/DoctorCal-Admin#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/SaveWallet-Client#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/BeautyInside-Client#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/BeautyInside-Admin#gh-dark-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-jober-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-jober-light.svg">
+  <img src="./profile/pin-jober-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-doctorcal-client-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-doctorcal-client-light.svg">
+  <img src="./profile/pin-doctorcal-client-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-doctorcal-admin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-doctorcal-admin-light.svg">
+  <img src="./profile/pin-doctorcal-admin-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-savewallet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-savewallet-light.svg">
+  <img src="./profile/pin-savewallet-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-beauty-client-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-beauty-client-light.svg">
+  <img src="./profile/pin-beauty-client-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-beauty-admin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-beauty-admin-light.svg">
+  <img src="./profile/pin-beauty-admin-dark.svg">
+</picture>
 
  [![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/Jober-Renewal-Client#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/DoctorCal-Client#gh-light-mode-only)
@@ -85,9 +117,11 @@ I value clean architecture, practical solutions, and continuous learning. :four_
 
   <h3 align="left">Personal Projects</h3>
 
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&border_radius=0&text_color=FFFFFF&hide_border=true#gh-dark-mode-only)](https://github.com/7581058/7581058#gh-dark-mode-only)
-
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=7581058&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/7581058#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/pin-profile-light.svg">
+  <img src="./profile/pin-profile-dark.svg">
+</picture>
 
   </td>
   </tr>
