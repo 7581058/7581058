@@ -127,12 +127,8 @@ I value clean architecture, practical solutions, and continuous learning. :four_
   <img src="./profile/pin-beauty-admin-dark.svg">
 </picture>
 
- [![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/Jober-Renewal-Client#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/DoctorCal-Client#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=DoctorCal-Admin&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/DoctorCal-Admin#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=SaveWallet-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/SaveWallet-Client#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/BeautyInside-Client#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-nine-lime-48.vercel.app/api/pin/?username=7581058&repo=BeautyInside-Admin&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&border_radius=0&text_color=1f2328&hide_border=true#gh-light-mode-only)](https://github.com/7581058/BeautyInside-Admin#gh-light-mode-only)
+<br>
+<br>
 
   <h3 align="left">Personal Projects</h3>
 
