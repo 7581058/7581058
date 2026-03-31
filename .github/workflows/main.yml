@@ -15,22 +15,169 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      # -----------------
+      # Stats
+      # -----------------
+      - name: Stats (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&include_all_commits=true&hide_title=true&custom_title=GitHubStats&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&text_color=F0F6FC&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Stats (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&include_all_commits=true&hide_title=true&custom_title=GitHubStats&ring_color=A9BACC&count_private=true&show_icons=true&rank_icon=github&title_color=1f2328&bg_color=ffffff&icon_color=1f2328&text_color=1f2328&hide=stars,contribs&show=prs,prs_merged,prs_merged_percentage&hide_border=true
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------
+      # Top Languages
+      # -----------------
+      - name: Top Langs (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&hide_title=true&layout=compact&title_color=F0F6FC&bg_color=0D1117&icon_color=FFFFFF&text_color=F0F6FC&hide_border=true
+          path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Top Langs (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&hide_title=true&layout=compact&title_color=1f2328&bg_color=ffffff&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------
+      # Team Projects Pins
+      # -----------------
+      # Jober
+      - name: pin jober (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-jober-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin jober (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Jober-Renewal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-jober-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # DoctorCal Client
+      - name: pin doctorcal-client (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=DoctorCal-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-doctorcal-client-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin doctorcal-client (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=DoctorCal-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-doctorcal-client-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # DoctorCal Admin
+      - name: pin doctorcal-admin (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=DoctorCal-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-doctorcal-admin-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin doctorcal-admin (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=DoctorCal-Admin&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-doctorcal-admin-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # SaveWallet
+      - name: pin savewallet (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=SaveWallet-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-savewallet-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin savewallet (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=SaveWallet-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-savewallet-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # BeautyInside Client
+      - name: pin beauty-client (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=BeautyInside-Client&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-beauty-client-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin beauty-client (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=BeautyInside-Client&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-beauty-client-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # BeautyInside Admin
+      - name: pin beauty-admin (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=BeautyInside-Admin&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-beauty-admin-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin beauty-admin (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=BeautyInside-Admin&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-beauty-admin-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Personal (profile repo)
+      - name: pin profile (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ github.repository_owner }}&border_color=A9BACC&title_color=A9BACC&bg_color=90,0D1117,A9BACC&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true
+          path: profile/pin-profile-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pin profile (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ github.repository_owner }}&border_color=A9BACC&title_color=1f2328&bg_color=90,ffffff,A9BACC&icon_color=A9BACC&text_color=1f2328&hide_border=true
+          path: profile/pin-profile-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------
+      # Commit
+      # -----------------
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
