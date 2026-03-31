@@ -5,9 +5,7 @@
   <h3 align="left">Introduction</h3>
   
 <p align="left">
-   I'm <span>$\color{#A9BACC}Daseul$</span>, 
-   a frontend engineer working with React and TypeScript.
-I value clean architecture, practical solutions, and continuous learning. :four_leaf_clover: 
+   I'm <span>$\color{#A9BACC}Daseul$</span>, Frontend engineer focused on scalable, data-driven applications with React and TypeScript. I build maintainable systems with predictable state management and clean architecture. :four_leaf_clover: 
 </p>
 
 <br>
