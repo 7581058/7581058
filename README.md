@@ -80,7 +80,6 @@
   <img
     src="https://render.gitanimals.org/lines/7581058?pet-id=636400385906267424"
     width="2000"
-    height="700"
   />
 </a>
   
